@@ -34,7 +34,7 @@ The set of all these possible outcomes is called the sample space for the partic
 
 If a coin is tossed and Head and Tail denote with H and T respectfully then the sample space is:
 
-	S={H,T}]
+	S={H,T}
 
 Where there are two sample points H and T. S={1,2,3,4,5,6}. In case of coin there are six sample points.
 
