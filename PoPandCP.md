@@ -16,4 +16,4 @@ Note:
 
 Let S be the sample space of any Random experiment are two associated events with S. Then, the conditional probability of the event E if F has occured is denoted by P(E/F) and given by
 
-P(E/F)=$$\frac{P\left(E∩F\right)}{P\left(F\right)}=\frac{n\left(E∩F\right)}{n\left(F\right)}$$
+P(E/F)= $$\frac{P\left(E∩F\right)}{P\left(F\right)}=\frac{n\left(E∩F\right)}{n\left(F\right)}$$
