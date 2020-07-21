@@ -17,3 +17,7 @@ Note:
 Let S be the sample space of any Random experiment are two associated events with S. Then, the conditional probability of the event E if F has occured is denoted by P(E/F) and given by
 
 P(E/F)= ![](http://www.sciweavers.org/download/Tex2Img_1595331404.jpg)
+
+### Homework 
+
+Q.) An experiment has occured of tossing three coins what is the probability of event E when F is occured, where E has atlease two head appears and F has it's first coin shows tail.
