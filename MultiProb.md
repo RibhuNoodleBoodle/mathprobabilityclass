@@ -23,7 +23,7 @@ General Soultion: If (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>... A<sub>n</su
 
 P.P.P....P(r times)=P<sup>r</sup>
 
--If P<sub>1</sub>, P<sub>2</sub>, ... P<sub>n</sub> are the probabilities that contain events happen then the probabilities are:
+- If P<sub>1</sub>, P<sub>2</sub>, ... P<sub>n</sub> are the probabilities that contain events happen then the probabilities are:
 
 (1-P<sub>1</sub>)(1-P<sub>2</sub>) ... (1-P<sub>n</sub>)
 
