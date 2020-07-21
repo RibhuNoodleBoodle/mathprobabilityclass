@@ -17,19 +17,19 @@
 	P(B|A)=P(B)
 	P(AB)=P(A)xP(B)
 
-General Soultion: If (A1, A2, A3... An) are n independent events, then P(A1)xP(A2)xP(A3)...P(An)
+General Soultion: If (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>... A<sub>n</sub>) are n independent events, then P(A<sub>1</sub>)xP(A<sub>2</sub>)xP(A<sub>3</sub>)...P(A<sub>n</sub>)
 
 - If P is the chance that an will happen in one trial then that chance that it will happen in a succession of trials.
 
-P.P.P....P(r times)=P^r
+P.P.P....P(r times)=P<sup>r</sup>
 
--If P1, P2, ... Pn are the probabilities that contain events happen then the probabilities are:
+-If P<sub>1</sub>, P<sub>2</sub>, ... P<sub>n</sub> are the probabilities that contain events happen then the probabilities are:
 
-(1-Pn)(1-P2) ... (1-Pn)
+(1-P<sub>1</sub>)(1-P<sub>2</sub>) ... (1-P<sub>n</sub>)
 
 Hence, the chance in which atleast one of these event much happen is:
 
-1-(1-P1)(1-P2)(1-P3 )... (1-Pn)
+1-(1-P<sub>1</sub>)(1-P<sub>2</sub>)(1-P<sub>3</sub>)... (1-P<sub>n</sub>)
 
 
 
