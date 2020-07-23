@@ -25,4 +25,4 @@ Q.) An experiment has occured of tossing three coins. What is the probability of
 Q.) A bag contains 10 white and 3 red balls while another bag contains 3 white and 5 red balls. Two balls are drawn at random and put in the second bag. Then a ball is drawn at random from the second bag, what is the probability that it is a white ball?
 
 A.)![](https://latex2image.joeraut.com/output/img-adf3fe1c16ebeb69.png)
-    
+    =59/130
